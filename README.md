@@ -37,3 +37,5 @@ laravelコンテナ内でサーバを立ち上げる
 コンテナの停止と削除
 ## docker compose exec -it php php コンテナ内のlaravel内のartisanファイルのパス migrate
 laravelコンテナ内でphp artisan migrateコマンドの実行
+## docker exec -it コンテナ名 sh
+コンテナに入る
